@@ -1,0 +1,22 @@
+{
+  "name": "crudtelefonico",
+  "version": "1.0.0",
+  "description": "Crud de agenda telefonica",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AndySast/CRUD.git"
+  },
+  "keywords": [
+    "Crud"
+  ],
+  "author": "Andres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndySast/CRUD/issues"
+  },
+  "homepage": "https://github.com/AndySast/CRUD#readme"
+}
