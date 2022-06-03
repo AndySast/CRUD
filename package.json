@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AndySast/CRUD/issues"
   },
-  "homepage": "https://github.com/AndySast/CRUD#readme"
+  "homepage": "https://github.com/AndySast/CRUD#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
